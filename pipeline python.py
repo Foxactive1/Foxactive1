@@ -2,11 +2,11 @@
 # Name:        módulo1
 # Purpose:
 #
-# Author:      Victor Hugo
+# Author:     Dione Castro Alves 
 #
 # Created:     22/10/2023
 # Copyright:   (c) Dione Castro Alves 2023
-# Licence:     InNovaIdeia2023
+# Licence:     InNovaIdeia2023 (ideia em Desenvolvimento)
 #-------------------------------------------------------------------------------
 
 import sqlite3
