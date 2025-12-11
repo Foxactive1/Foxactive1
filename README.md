@@ -1,64 +1,113 @@
-Projeto: Importação de Dados CSV para SQLite
+<div align="center">
 
-Autor: Dione Castro Alves
-Licença: InNovaIdeia2023 (ideia em Desenvolvimento)
+# 🚀 Dione Castro Alves  
+### Consultor Tecnológico • Desenvolvedor Full Stack • Especialista em IA  
+### Founder da InNovaIdeia® — Automação, Software e Estratégia
 
-Descrição
-
-Este projeto visa a criação automatizada de um banco de dados SQLite a partir de um arquivo CSV, utilizando Python, pandas e sqlite3. Ideal para pipelines de dados, ETL simplificados e prototipagem rápida de bancos de dados relacionais.
-
-Funcionalidades
-
-Leitura de dados de um arquivo .csv com pandas
-
-Criação de um banco de dados SQLite
-
-Importação automática dos dados para uma tabela
-
-Substituição da tabela caso já exista (opção if_exists='replace')
-
-Mensagem de confirmação no terminal
-
-
-Pré-requisitos
-
-Certifique-se de ter instalados os seguintes pacotes:
-
-pip install pandas
-
-Como executar
-
-1. Edite o caminho do arquivo CSV no código, se necessário:
-
-data = pd.read_csv('C:\Dcoder\dio_me_projetos\projeto_dio.csv')
-conn = sqlite3.connect('C:\Dcoder\dio_me_projetos\dados.db')
-
-
-2. Execute o script Python:
-
-python modulo1.py
-
-
-3. Verifique o arquivo dados.db gerado no diretório especificado.
-
-
-
-Notas importantes
-
-O caminho dos arquivos deve utilizar dupla barra invertida (\) ou r-string (prefixo r) para evitar erros de escape em Windows.
-Exemplo recomendado:
-
-data = pd.read_csv(r'C:\Dcoder\dio_me_projetos\projeto_dio.csv')
-
-A tabela será substituída a cada execução para evitar duplicação de dados.
-
-
-Licença
-
-Este projeto está sob a licença InNovaIdeia2023 (ideia em Desenvolvimento).
-
+</div>
 
 ---
 
-Dione Castro Alves
-InNovaIdeia Assessoria em Tecnologia ®
+<div align="center">
+
+## 🌐 Conecte-se comigo
+
+[![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DioneCastroAlves)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dione-castro-alves)
+[![Portfólio](https://img.shields.io/badge/Portfólio-InNovaIdeia®-1a1a2e?style=for-the-badge)](https://innovaideia-github-io.vercel.app)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/innovaideia)
+
+</div>
+
+---
+
+# 🧩 Sobre mim
+
+Sou **Consultor Tecnológico**, **Desenvolvedor Full Stack** e **Especialista em Inteligência Artificial** com foco em criar soluções para empresas que buscam automação, produtividade e inovação real.
+
+Atualmente curso **ADS pela Anhanguera Educacional**, conectando teoria, prática e visão estratégica para construir produtos de alto impacto.
+
+Fundador da **InNovaIdeia Assessoria em Tecnologia®**, onde desenvolvo:
+
+- 🔹 Sistemas completos com Django, Flask, FastAPI e React  
+- 🔹 Plataformas de IA offline/online  
+- 🔹 Automação inteligente de processos  
+- 🔹 Arquitetura de software modular  
+- 🔹 CRMs e dashboards customizados  
+- 🔹 Projetos corporativos nos setores de moda, varejo e tecnologia  
+
+---
+
+# 🎖️ Badges Automáticos (Tecnologias e Competências)
+
+## **Linguagens & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## **IA & Automação**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
+![LLMs](https://img.shields.io/badge/LLMs-Transformers-1a1a2e?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+## **Banco de Dados**
+![SQLite](https://img.shields.io/badge/SQLite-044a64?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
+
+## **DevOps & Ferramentas**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+# 📊 Métricas Automáticas do GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DioneCastroAlves&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DioneCastroAlves&layout=compact&theme=tokyonight&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com/?user=DioneCastroAlves&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# 🏗️ Projetos em Destaque
+
+### 🔥 **InNovaIA — Plataforma de IA Híbrida**
+- IA local + online  
+- Módulos plugáveis  
+- Interface Flask + Bootstrap  
+- Consultoria artificial nos moldes InNovaIdeia®
+
+### ⚙️ **API Inteligente de Voluntários (FastAPI + Arquitetura Moderna)**
+- CRUD modular  
+- Validações automáticas  
+- Regra de negócio isolada  
+- Pronto para produção  
+
+### 📊 **Dashboard InovaBI**
+- Análises em Python  
+- Módulos corporativos  
+- Foco em tomada de decisão  
+
+### 🧠 **Consultor de Negócios com IA (Offline)**
+- SQLite + LLM local  
+- Engine de raciocínio  
+- Assistente especialista em negócios
+
+---
+
+# 🌱 Linha do Tempo Profissional
