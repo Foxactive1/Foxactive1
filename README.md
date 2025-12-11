@@ -2,7 +2,7 @@
 
 # 🚀 Dione Castro Alves  
 ### Consultor Tecnológico • Desenvolvedor Full Stack • Especialista em IA  
-### Founder da InNovaIdeia® — Automação, Software e Estratégia
+### Automação, Software e Estratégia
 
 </div>
 
