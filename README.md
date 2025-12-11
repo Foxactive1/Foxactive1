@@ -38,7 +38,7 @@ Atualmente curso **ADS pela Anhanguera Educacional**, conectando teoria, prátic
 
 ---
 
-# 🎖️ Badges Automáticos (Tecnologias e Competências)
+# 🎖️Tecnologias e Competências)
 
 ## **Linguagens & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -107,7 +107,3 @@ Atualmente curso **ADS pela Anhanguera Educacional**, conectando teoria, prátic
 - SQLite + LLM local  
 - Engine de raciocínio  
 - Assistente especialista em negócios
-
----
-
-# 🌱 Linha do Tempo Profissional
