@@ -27,7 +27,7 @@ Sou **Consultor Tecnológico**, **Desenvolvedor Full Stack** e **Especialista em
 
 Atualmente curso **ADS pela Anhanguera Educacional**, conectando teoria, prática e visão estratégica para construir produtos de alto impacto.
 
-Fundador da **InNovaIdeia Assessoria em Tecnologia®**, onde desenvolvo:
+## Desenvolvo:
 
 - 🔹 Sistemas completos com Django, Flask, FastAPI e React  
 - 🔹 Plataformas de IA offline/online  
