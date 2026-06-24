@@ -1,157 +1,190 @@
 <div align="center">
 
-# 🚀 Dione Castro Alves  
-### Consultor Tecnológico • Desenvolvedor Full Stack • Especialista em IA  
-### Automação, Software e Estratégia
+# 🚀 Dione Castro Alves
+
+**Python · Full Stack Developer · AI Engineer · Tech Consultant**
+
+Fundador da [InNovaIdeia Assessoria em Tecnologia®](https://innovaideia-github-io.vercel.app/)
+
+*Transformando desafios em soluções digitais — desde 2009 construindo sistemas, formando profissionais e integrando inteligência artificial a negócios reais.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dione%20Castro%20Alves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dione-castro-alves)
+[![Portfólio](https://img.shields.io/badge/Portfólio-InNovaIdeia-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://innovaideia-github-io.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Foxactive1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Foxactive1)
+[![E-mail](https://img.shields.io/badge/E--mail-innovaideia2023@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:innovaideia2023@gmail.com)
 
 </div>
 
 ---
 
-<div align="center">
+## 👨‍💻 Sobre Mim
 
-## 🌐 Conecte-se comigo
+Sou **Consultor Tecnológico**, **Desenvolvedor Full Stack** e **Especialista em IA Aplicada** com trajetória iniciada em 2009. Tenho formação técnica em Processamento de Dados (1999) e atualmente curso **Análise e Desenvolvimento de Sistemas** pela Universidade Pitágoras UNOPAR Anhanguera.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DioneCastroAlves)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dione-castro-alves)
-[![Portfólio](https://img.shields.io/badge/Portfólio-InNovaIdeia®-1a1a2e?style=for-the-badge)](https://innovaideia-github-io.vercel.app)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/innovaideia)
+Fundei a **InNovaIdeia Assessoria em Tecnologia®** para transformar problemas reais em produtos digitais com valor de negócio — unindo desenvolvimento de software, consultoria estratégica e treinamentos especializados.
 
-</div>
+Desenvolvo tanto em ambiente desktop quanto diretamente em **dispositivos móveis via Termux e Pydroid 3**, o que reforça minha filosofia: **tecnologia acessível, onde e quando for necessário.**
 
----
-
-# 🧩 Sobre mim
-
-Sou **Consultor Tecnológico**, **Desenvolvedor Full Stack** e **Especialista em Inteligência Artificial** com foco em criar soluções para empresas que buscam automação, produtividade e inovação real.
-
-Atualmente curso **ADS pela Anhanguera Educacional**, conectando teoria, prática e visão estratégica para construir produtos de alto impacto.
-
-## Desenvolvo:
-
-- 🔹 Sistemas completos com Django, Flask, FastAPI e React  
-- 🔹 Plataformas de IA offline/online  
-- 🔹 Automação inteligente de processos  
-- 🔹 Arquitetura de software modular  
-- 🔹 CRMs e dashboards customizados  
-- 🔹 Projetos corporativos nos setores de moda, varejo e tecnologia  
+Linguagens com as quais trabalhei ao longo da carreira: `Python` · `JavaScript` · `Java` · `SQL` · `Delphi` · `C` · `Clipper`
 
 ---
 
-# 🎖️ Tecnologias e Competências
+## 🏢 InNovaIdeia — O que fazemos
 
-## **Linguagens & Frameworks**
+> *Consultoria · Desenvolvimento de Software · Treinamento & Capacitação*
+
+| Serviço | Descrição |
+|---------|-----------|
+| 🧠 **Consultoria Tecnológica** | Diagnóstico, arquitetura de sistemas e roadmap digital |
+| 💻 **Desenvolvimento Sob Medida** | Web apps, APIs REST, sistemas de gestão e plataformas SaaS |
+| 🤖 **Integração com IA** | Automação inteligente com Groq, Claude API e OpenAI |
+| 📊 **Análise de Dados** | Dashboards, relatórios e BI para tomada de decisão |
+| 🎓 **Treinamentos** | Python, Flask, IA aplicada, desenvolvimento web |
+
+---
+
+## 🚀 Ecossistema de Projetos
+
+Soluções desenvolvidas com foco em automação, produtividade, IA e transformação digital.
+
+| Projeto | Segmento | Stack Principal | Status |
+|---------|----------|----------------|--------|
+| 🏥 **Innova Clínica** | HealthTech | Flask · SQLite · Bootstrap | 🔄 Em desenvolvimento |
+| 🤖 **InNovaIA** | IA & Automação | Flask · Groq · Claude · OpenAI | 🔄 Em desenvolvimento |
+| 📊 **InDataLab** | Dados & BI | Python · Pandas · Jupyter · SQL | 🔄 Em desenvolvimento |
+| 🛒 **GST Market** | E-commerce / Varejo | PWA · JS · Flask · SQLite | 🔄 Em desenvolvimento |
+| 📈 **InNova SmartFlow CRM** | Gestão Empresarial | Flask · SQLite · Bootstrap | 🔄 Em desenvolvimento |
+| 🎬 **AI Video Platform** | Automação de Conteúdo | FastAPI · FFmpeg · IA | 🧪 Prototipagem |
+| 🏨 **HotelSys** | Hospitalidade | Flask · Supabase | ✅ Entregue |
+| 🚗 **Elvis Veículos** | Automotivo | Flask · Supabase · FIPE API | ✅ Entregue |
+
+---
+
+### 🏥 Destaque — Innova Clínica
+
+Sistema completo para gestão clínica e atendimento médico.
+
+- 📋 Prontuário eletrônico · Prescrição digital · Histórico clínico
+- 🗓️ Controle de consultas · Emissão de documentos médicos
+- 🏗️ Arquitetura REST modular · Backend Flask · Frontend Bootstrap responsivo
+
+**Stack:** `Flask` · `SQLite` · `Bootstrap` · `Python`
+
+---
+
+### 🛒 Destaque — GST Market (PWA)
+
+Plataforma PWA para gestão de supermercado com inteligência de negócio integrada.
+
+- 🧾 PDV · Controle de estoque · Pedidos com workflow de status
+- 📦 Validação de CNPJ/CPF · Relatórios · Price Intelligence
+- ⚙️ Service Worker · Módulos JS com padrão IIFE · Proteção XSS nativa
+
+**Stack:** `JavaScript (PWA)` · `Flask` · `SQLite` · `Bootstrap`
+
+---
+
+### 🤖 Destaque — InNovaIA
+
+Plataforma híbrida de IA para automação e suporte empresarial.
+
+- 🔗 Multi-LLM: Groq · Claude · OpenAI · DeepSeek · Modelos locais
+- 🧩 Arquitetura extensível preparada para agentes autônomos
+- 🏢 Automações empresariais e base para SaaS de IA
+
+**Stack:** `Python` · `Flask` · `Groq API` · `Anthropic API` · `Hugging Face`
+
+---
+
+### 📊 Destaque — InDataLab
+
+Laboratório de Dados e Inteligência Artificial estilo Jupyter com interface web.
+
+- 📈 Dashboards interativos · Execução de células de código · Copilot AI integrado
+- 🗃️ Dataset panel · Cache de células · Temas dark/light
+- 🔌 Service layer modular com blueprints Flask
+
+**Stack:** `Python` · `Pandas` · `Flask` · `SQL` · `Bootstrap` · `JavaScript`
+
+---
+
+## ⚙️ Especialidades Técnicas
+
+### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logoColor=white)
+
+### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## **Backend & APIs**
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-## **Frontend & UI**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-## **IA & Machine Learning**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-8C1D40?style=for-the-badge&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-0B8FDE?style=for-the-badge&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-## **Banco de Dados**
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+### Banco de Dados
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-## **DevOps & Ferramentas**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### Inteligência Artificial
+![Anthropic](https://img.shields.io/badge/Claude%20API-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-FF6B35?style=for-the-badge&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### DevOps & Ambiente
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## **Produtividade & Análise**
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Access](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ---
 
-# 📊 Métricas do GitHub
+## 📈 Estatísticas GitHub
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DioneCastroAlves&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DioneCastroAlves&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=DioneCastroAlves&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Foxactive1&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foxactive1&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=Foxactive1&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-# 🏗️ Projetos em Destaque
+## 🎯 Foco Atual
 
-### 🛒 **InNovaEcom - Plataforma E-commerce Inteligente**
-- **Tecnologias:** Django, React, PostgreSQL, Docker
-- Sistema completo de e-commerce com dashboard administrativo
-- Recomendação de produtos com IA personalizada
-- Integração com múltiplos gateways de pagamento
-- Analytics em tempo real para tomada de decisão
+- 🏥 **HealthTech** — Sistemas de gestão clínica com IA embarcada
+- 🛒 **RetailTech** — PWA para varejo com inteligência de negócio
+- 🤖 **AI Agents** — Arquitetura de agentes autônomos com LLMs
+- 📚 **ADS** — Formação em Análise e Desenvolvimento de Sistemas (UNOPAR Anhanguera)
+- ✍️ **LinkedIn** — Artigos sobre IA aplicada, inovação e carreira em tecnologia
 
-### 🎮 **Jogo 2048 - Versão Avançada**
-- **Tecnologias:** JavaScript, HTML5, CSS3, React
-- Implementação do clássico jogo 2048 com modo dark/light
-- Sistema de ranking e histórico de pontuações
-- Animações fluidas e design responsivo
-- Lógica de IA para sugestões de movimentos
+---
 
-### 🔥 **InNovaIA — Plataforma de IA Híbrida**
-- **Tecnologias:** Flask, Bootstrap, Python, HuggingFace
-- IA local + online com suporte a múltiplos modelos (Claude, DeepSeek, OpenAI)
-- Módulos plugáveis e arquitetura extensível
-- Interface responsiva com dashboard de monitoramento
-- Consultoria artificial nos moldes InNovaIdeia®
+## 📬 Contato
 
-### ⚙️ **API Inteligente de Voluntários**
-- **Tecnologias:** FastAPI, SQLite, Pydantic, Docker
-- CRUD modular com validações automáticas
-- Regra de negócio isolada e testável
-- Documentação interativa automática (Swagger/Redoc)
-- Pronto para produção com autenticação JWT
+> *"Tecnologia não é apenas código. É gerar resultado, escala e vantagem competitiva."*
 
-### 📊 **Dashboard InovaBI**
-- **Tecnologias:** Python, Power BI, Excel, SQL
-- Análises avançadas e visualização de dados corporativos
-- Integração com múltiplas fontes de dados
-- Relatórios automatizados e exportação personalizada
-- Foco em tomada de decisão baseada em dados
-
-### 🧠 **Consultor de Negócios com IA (Offline)**
-- **Tecnologias:** SQLite, Transformers, Delphi, Python
-- LLM local otimizado para execução offline
-- Engine de raciocínio com contexto empresarial
-- Interface desktop desenvolvida em Delphi
-- Assistente especialista em estratégia e negócios
+| Canal | Link |
+|-------|------|
+| 📧 E-mail | [innovaideia2023@gmail.com](mailto:innovaideia2023@gmail.com) |
+| 🌐 Portfólio | [innovaideia-github-io.vercel.app](https://innovaideia-github-io.vercel.app/) |
+| 🔗 LinkedIn | [linkedin.com/in/dione-castro-alves](https://linkedin.com/in/dione-castro-alves) |
+| 💻 GitHub | [github.com/Foxactive1](https://github.com/Foxactive1) |
 
 ---
 
 <div align="center">
 
-## 📬 Vamos conversar sobre seu projeto?
+**InNovaIdeia Assessoria em Tecnologia®**
 
-**Tecnologia não é só código — é estratégia, produtividade e resultados.**  
-Entre em contato para discutir automação, IA ou desenvolvimento sob medida.
+*Consultoria · Desenvolvimento · IA · Treinamento · Inovação*
 
-✨ *Disponível para projetos desafiadores e parcerias inovadoras*
+⚡ *Feito com Python, propósito e café — desde Franca/SP para o Brasil.*
 
 </div>
